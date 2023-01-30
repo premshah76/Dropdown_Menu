@@ -3,7 +3,7 @@ import { useState } from "react";
 const Dropdown = () => {
 
     const [isActive, setActive] = useState(false);
-    const [list] = useState(['Yes', 'Probably not']);
+    const [list] = useState(['Yes', 'No', 'Probably not']);
     const [value, setValue] = useState('');
 
     const onClickHandeler = (e) => {
