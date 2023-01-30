@@ -2,7 +2,7 @@
 
 Created a simple dropdown component such that when i click the arrow button it shows me a dropdown menu.
 
-# Hosted Link:
+# Hosted Link: https://dropdown-menu001.netlify.app/
 
 
 ![Screenshot (11)](https://user-images.githubusercontent.com/107624668/215481862-4cde87d9-4097-4b7e-b5ec-8bf08236e261.png)
