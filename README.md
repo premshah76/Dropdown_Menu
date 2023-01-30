@@ -4,10 +4,6 @@ Created a simple dropdown component such that when i click the arrow button it s
 
 # Hosted Link:
 
-https://sonu825313.github.io/React-Dropdown/
-
-![React-App](https://user-images.githubusercontent.com/106314383/197320979-3e7c9e4b-34f0-480b-ac8a-ff63f3386310.png)
-
 
 # Getting Started with Create React App
 
